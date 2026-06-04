@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-THRESHOLD=85
+THRESHOLD=1
 EMAIL="diyakoolothvinod@gmail.com"
 HOSTNAME=$(hostname)
 
